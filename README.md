@@ -27,7 +27,7 @@
 * [Documenting a Spring REST API Using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)
 * [Get current user](https://www.baeldung.com/get-user-in-spring-security)
 * [Testcontainers: How to write reliable integration tests. Our short journey full of optimism](https://devapo.io/blog/testcontainers-how-to-write-reliable-integration-tests-our-short-journey-full-of-optimism/)
-
+* [Spring Security with JWT for REST API](https://www.toptal.com/spring/spring-security-tutorial)
 ### Websites
 * [amitph](https://www.amitph.com/)
 * [appsdeveloperblog](https://www.appsdeveloperblog.com/)
